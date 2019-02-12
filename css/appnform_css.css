@@ -1,0 +1,80 @@
+.page_title1 {
+    font-family:Verdana, Arial, Helvetica, sans-serif;
+    font-size:28px;
+    color:#FFFFFF;
+    background-color:#3bb3e4;
+}
+.page_title2 {
+    font-family:Verdana, Arial, Helvetica, sans-serif;
+    font-size:22px;
+    color:#3bb3e4;
+}
+.PT5 {
+    padding-top: 5px;
+}
+.arial16blue {
+    font-family:Sans-Serif;
+    font-size: 16px;
+    color: #065f9b;
+    text-decoration: none;
+}
+element.style {
+    text-align: justify;
+    line-height: 130%;
+}
+.arial12black {
+    font-family: Sans-Serif;
+    font-size: 14px;
+    color: #000000;
+    text-decoration: none;
+}
+.data_head {
+    font-family: Sans-Serif;
+    font-size: 14px;
+    color: #385C96;
+    background-color: #BCD7EA;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+}
+.cat_head {
+    font-family: Sans-Serif;
+    font-size: 14px;
+    color: #ffffff;
+    background-color: #375B99;
+    padding: 3px;
+    text-decoration: none;
+    font-weight: bold;
+}
+.data_row {
+    FONT-FAMILY: Sans-Serif;
+    FONT-SIZE: 14px;
+    COLOR: #000000;
+    text-decoration: none;
+    padding: 2px;
+    border-bottom: 1px solid #eee;
+}
+.data_row1 {
+    FONT-FAMILY: Sans-Serif;
+    FONT-SIZE: 14px;
+    COLOR: #000000;
+    text-decoration: none;
+    padding: 3px;
+    border-bottom: 1px solid #e1e1e1;
+}
+.arial11black {
+    font-family: Sans-Serif;
+    font-size: 14px;
+    color: #000000;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+}
+.scroll_appnform{
+	overflow: scroll;
+width: auto;
+height: 300px;
+
+}

@@ -1,0 +1,30 @@
+.color_white {
+	background-color:#FFFFFF;
+}
+.text_regular {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	color:#000000;
+	font-size:11px;
+}
+.page_title1 {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:28px;
+	color:#FFFFFF;
+	background-color:#3bb3e4;
+}
+.page_title2 {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:22px;
+	color:#3bb3e4;
+}
+.normaltext {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#000000;
+}
+.heading_orange {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: #3bb3e4;
+    font-weight: bold;
+}

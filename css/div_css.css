@@ -1,0 +1,30 @@
+.page_title1 {
+    font-family:Verdana, Arial, Helvetica, sans-serif;
+    font-size:28px;
+    color:#FFFFFF;
+    background-color:#3bb3e4;
+}
+.page_title2 {
+    font-family:Verdana, Arial, Helvetica, sans-serif;
+    font-size:22px;
+    color:#3bb3e4;
+}
+.dvdtbl td { 
+	padding:5px; 
+	font:12px arial; 
+	color:#666;
+}
+.dvd_brdr{ border-right:1px solid #cacaca}
+.dvd_brdb{ border-bottom:1px solid #cacaca}
+.PA10_b_12{
+	color: #ffffff;
+}
+.b_12{
+	color: #ffffff;
+}
+.scroll_div{
+	overflow: scroll;
+width: auto;
+height: 350px;
+
+}

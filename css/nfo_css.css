@@ -1,0 +1,118 @@
+form {
+    margin-bottom: 1em;
+}
+
+.yellowbar {
+    background: url(../img/data_bar.jpg);
+    height: 22px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #FFFFFF;
+    font-weight: bold;
+    padding: 3px;
+    background-repeat: repeat-x;
+    border-width: 1px;
+    border-color: #7b7c7b !important;
+    border-style: solid;
+    background-color: #7b7c7b;
+    background-position: bottom;
+}
+.title_1 {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #000000;
+    font-weight: bold;
+    text-decoration: none;
+}
+.NormalText {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    color: #000000;
+    padding: 3px;
+    line-height: 16px;
+}
+
+.greybar_2 {
+    background-color: #3bb3e4;
+    height: 23px;
+    background-repeat: repeat-x;
+}
+
+
+.color_grey {
+	background-color:#dcdcdc;
+}
+.color_white {
+	background-color:#FFFFFF;
+}
+.color_light_ylw {
+	background-color:#fff9e2;
+}
+.box_grey_brder {
+	background-color:#f7f7f6;
+	border-width:1px;
+	border-color:#616161;
+	border-style:solid;
+}
+.box_light_orange {
+	background-color:#fff9e2;
+}
+.box_orange	{
+	background-color:#f6d0ae;
+}
+.text_white11 {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#FFFFFF;
+	text-decoration:none;
+}
+.text_white {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	text-decoration:none;
+}
+.text_grey {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#858585;
+	text-decoration:none;
+}
+
+.page_title1 {
+    font-family:Verdana, Arial, Helvetica, sans-serif;
+    font-size:28px;
+    color:#FFFFFF;
+    background-color:#3bb3e4;
+}
+.page_title2 {
+    font-family:Verdana, Arial, Helvetica, sans-serif;
+    font-size:22px;
+    color:#3bb3e4;
+}
+.cssgridview td{padding: 10px; font-family: sans-serif; }
+.cssgridview th{  font-family: sans-serif ;
+    font-size: 14px;
+    color: #000000;
+    background-color: #3bb3e4;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+}
+
+ .text_regular {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    color: #000000;
+    font-size: 14px;
+    padding: 5px;
+}
+.color_white {
+    background-color:#FFFFFF;
+}
+.scroll_nfo
+{
+	overflow:scroll;
+	height:300px;
+	width:auto;
+}
+
